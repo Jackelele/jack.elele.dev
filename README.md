@@ -26,7 +26,7 @@ This is my personal website portfolio which was created using ReactJS and Tailwi
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [ReactJS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- 
+
 ## ✍️ Authors <a name = "authors"></a>
 - [@Jackelele](https://github.com/Jackelele) - Developer and Author
   
