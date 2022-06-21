@@ -17,7 +17,7 @@
 - [About](#about)
 - [Sections](#sections)
 - [Built Using](#built_using)
-- [Authors](#authors)
+- [For the Future](#for-the-future)
 
 ## About <a name = "about"></a>
 
@@ -31,14 +31,18 @@ This is my personal website portfolio which was created using ReactJS and Tailwi
 ✔️ Education\
 ✔️ Work Experience\
 ✔️ Uses\
-✔️ Projects\
+✔️ Projects
 
 ## Built Using <a name = "built_using"></a>
 - [ReactJS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-## Authors <a name = "authors"></a>
-- [@Jackelele](https://github.com/Jackelele) - Developer and Author
-  
-  
+## For the Future
+
+- Add more sections
+- API integration with something? 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
   
