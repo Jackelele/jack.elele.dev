@@ -18,6 +18,11 @@ const nav = [
   },
   {
     id: 4,
+    title: 'stats',
+    url: '/stats'
+  },
+  {
+    id: 5,
     title: 'contact',
     url: '/contact',
   },
