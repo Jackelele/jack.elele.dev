@@ -3,6 +3,7 @@ import apple from '../Images/apple.png';
 import { Slide, Fade } from 'react-awesome-reveal';
 import { useGlobalContext } from '../context';
 import { FiGithub, FiTwitter, FiLinkedin, FiMail } from 'react-icons/fi';
+import Status from "./Status";
 
 const Hero = function () {
   const { theme } = useGlobalContext();
@@ -63,6 +64,7 @@ const Hero = function () {
                   <FiMail className='w-7 h-7 text-text-link   font-semibold' />
                 </a>
               </div>
+              <Status class="mt-4" />
             </div>
           ) : (
             <div className=''>
@@ -118,6 +120,7 @@ const Hero = function () {
             </div>
           )}
         </Fade>
+
 
         <Slide direction='right' duration={1000}>
           <div className='w-64 hidden  lg:block'>

@@ -107,7 +107,7 @@ const Uses = function () {
           <div className='w-full border boder-b border-border'></div>
         </Slide>
 
-        <Slide direction='up' triggerOnce>
+        <Slide direction='left' duration={2000} triggerOn>
           <div className='grid grid-cols-1 md:flex'>
             <div className='w-1/3'>
               <div className='font-semibold capitalize tracking-widest text-text-color text-2xl mt-4 mb-2'>
