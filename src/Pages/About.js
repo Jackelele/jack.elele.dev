@@ -65,9 +65,8 @@ const About = function () {
                 languages/frameworks
               </div>
               <ul>
-                <li className='text-text-color text-lg '>HTML</li>
-                <li className='text-text-color text-lg'>CSS</li>
-                <li className='text-text-color text-lg'>TailwindCss</li>
+                <li className='text-text-color text-lg'>HTML</li>
+                <li className='text-text-color text-lg'>TailwindCSS</li>
                 <li className='text-text-color text-lg'>JavaScript</li>
                 <li className='text-text-color text-lg'>ReactJS</li>
               </ul>
@@ -112,7 +111,7 @@ const About = function () {
 
       <div className='pb-24'>
         <h3 className='text-text-color font-extrabold text-3xl capitalize mb-4 tracking-widest mt-8 '>
-          experience  (related-ish)
+          experience
         </h3>
         <Slide direction='right' duration={2000} triggerOnce>
           <div className='w-full border boder-b border-border'></div>
@@ -121,18 +120,18 @@ const About = function () {
           <div className='grid grid-cols-1 md:flex '>
             <div className='md:w-1/2'>
               <div className='font-semibold capitalize tracking-widest text-text-color text-2xl mt-4'>
-                Server.Pro
+                telent
               </div>
-              <span className='text-text-color'>2021 - present</span>
+              <span className='text-text-color'>2022 - present</span>
             </div>
 
             <div className='md:w-1/2'>
               <div className='font-semibold text-xl capitalize md:tracking-widest text-text-color md:text-2xl mt-4'>
                 {' '}
-                Customer Support Specialist
+                Graduate Engineer
               </div>
               <p className='text-text-color text-lg'>
-                Customer Support for the Game Hosting company includes answering tickets, working with VPS, Linux, Minecraft and other games.
+              Telent is a leading technology company and specialist in the design, build, support and management of the UK's critical digital infrastructure, drawing on decades of experience in mission-critical communications and technology.
               </p>
             </div>
           </div>
@@ -173,27 +172,6 @@ const About = function () {
               <div className='font-semibold text-xl capitalize md:tracking-widest text-text-color md:text-2xl mt-4'>
                 {' '}
                 Frontend Developer
-              </div>
-              <p className='text-text-color text-lg'>
-                Mainly focusing on the Hytale Servers website, I was tasked in creating the website in HTML and later re-developed in VueJS. 
-              </p>
-            </div>
-          </div>
-        </Slide>
-        <Slide direction='up' triggerOnce>
-          <div className='grid grid-cols-1 md:flex'>
-            <div className='md:w-1/2'>
-              <div className='font-semibold capitalize tracking-widest text-text-color text-2xl mt-4'>
-                {' '}
-                Skynode
-              </div>
-              <span className='text-text-color'>Mar 2019 - Apr 2020</span>
-            </div>
-
-            <div className='md:w-1/2'>
-              <div className='font-semibold text-xl capitalize md:tracking-widest text-text-color md:text-2xl mt-4'>
-                {' '}
-                Support &amp; Social Media Manager
               </div>
               <p className='text-text-color text-lg'>
                 Mainly focusing on the Hytale Servers website, I was tasked in creating the website in HTML and later re-developed in VueJS. 

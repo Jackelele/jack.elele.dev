@@ -3,7 +3,6 @@ import apple from '../Images/apple.png';
 import { Slide, Fade } from 'react-awesome-reveal';
 import { useGlobalContext } from '../context';
 import { FiGithub, FiTwitter, FiLinkedin, FiMail } from 'react-icons/fi';
-import Status from "./Status";
 
 const Hero = function () {
   const { theme } = useGlobalContext();
@@ -14,7 +13,7 @@ const Hero = function () {
           {theme === 'dark-theme' ? (
             <div className=''>
               <p className='text-lg text-text-color'>
-                Hello, I'm <b>Jack Irving</b>
+                Hello, I'm <b>Jackelele</b>
               </p>
 
               <h1 className=' text-text-link text-7xl capitalize font-semibold '>
@@ -64,16 +63,15 @@ const Hero = function () {
                   <FiMail className='w-7 h-7 text-text-link   font-semibold' />
                 </a>
               </div>
-              <Status class="mt-4" />
             </div>
           ) : (
             <div className=''>
               <p className='text-lg text-text-color'>
-                Hi, I'm <b>Jack</b>
+                Hi, I'm <b>Jack Irving</b>
               </p>
 
               <p className=' text-text-link font-semibold text-7xl capitalize'>
-                systems{' '}
+                graduate{' '}
               </p>
               <h1 className=' text-text-link font-semibold text-7xl capitalize mb-2'>
                 engineer

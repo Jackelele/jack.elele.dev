@@ -1,12 +1,11 @@
 import { useLanyard } from "use-lanyard";
 import classnames from "classnames";
 import Tippy from '@tippyjs/react';
-const DID = "377175513372033024";
 
 const Status = function () {
 
     const { loading, status } = useLanyard({
-        userId: DID,
+        userId: "377175513372033024",
         socket: true,
     });
 
